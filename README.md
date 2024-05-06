@@ -1,1 +1,2 @@
-# Recell-Project---Supervised-Learning
+# Recell-Project-Supervised-Learning
+Refurbished and used devices continue to provide cost-effective alternatives to both consumers and businesses that are looking to save money when purchasing one.  ReCell, a startup aiming to tap the potential in this market, has hired me as a data scientist and would want me to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
